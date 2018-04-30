@@ -1,0 +1,1 @@
+start docker build -t nattaponra/python-image-processing:1.0 .
